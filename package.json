@@ -1,0 +1,22 @@
+{
+  "name": "aviniu.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build source/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AViNIU/AViNIU.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AViNIU/AViNIU.github.io/issues"
+  },
+  "homepage": "https://github.com/AViNIU/AViNIU.github.io#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
